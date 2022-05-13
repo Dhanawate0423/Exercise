@@ -1,3 +1,9 @@
+<<<<<<< HEAD
 Pizza
 burger
 pasta
+=======
+marvel
+dc
+harry potter
+>>>>>>> movies
